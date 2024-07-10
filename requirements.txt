@@ -1,6 +1,6 @@
 Flask
 pandas
-numpy==1.15.1
+numpy==1.17.3
 requests
 pickle4
 gunicorn
