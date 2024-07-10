@@ -6,3 +6,5 @@ pickle4
 gunicorn
 scikit-learn
 xgboost
+cloudpickle==2.2.1
+scikit-learn==1.1.3
