@@ -1,8 +1,8 @@
-Flask==1.1.1
-requests==2.26.0
+Flask
+pandas
+numpy
+requests
 pickle4
-xgboost==1.2.0
-gunicorn==19.9.0
-numpy==1.19.2
-scikit-learn==0.23.2
-pandas==0.25.3
+gunicorn
+xgboost
+scikit-learn
