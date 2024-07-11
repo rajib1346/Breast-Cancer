@@ -1,11 +1,8 @@
 Flask==1.1.1
 requests==2.26.0
 pickle4
-xgboost==1.3.3
+xgboost==1.2.0
 gunicorn==19.9.0
-numpy==1.19.5
-scikit-learn==0.24.2
-pandas==1.1.5
-cython==3.0.10
-itsdangerous>=2.0.0
-werkzeug>=2.0.0
+numpy==1.19.2
+scikit-learn==0.23.2
+pandas==0.25.3
